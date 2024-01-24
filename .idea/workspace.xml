@@ -4,13 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e6a02bd5-3bbd-4f67-ae26-7da235a888ef" name="Changes" comment="First init">
-      <change afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Payable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="e6a02bd5-3bbd-4f67-ae26-7da235a888ef" name="Changes" comment="Second init">
+      <change beforePath="$PROJECT_DIR$/src/Employee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Employee.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +71,7 @@
       <workItem from="1706061203656" duration="19000" />
       <workItem from="1706061247771" duration="709000" />
       <workItem from="1706061986767" duration="201000" />
-      <workItem from="1706062225074" duration="303000" />
+      <workItem from="1706062225074" duration="613000" />
     </task>
     <task id="LOCAL-00001" summary="First init">
       <option name="closed" value="true" />
@@ -86,7 +81,23 @@
       <option name="project" value="LOCAL" />
       <updated>1706059926279</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Second init">
+      <option name="closed" value="true" />
+      <created>1706062590706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1706062590706</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Second init">
+      <option name="closed" value="true" />
+      <created>1706062732645</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1706062732645</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +105,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="First init" />
-    <option name="LAST_COMMIT_MESSAGE" value="First init" />
+    <MESSAGE value="Second init" />
+    <option name="LAST_COMMIT_MESSAGE" value="Second init" />
   </component>
 </project>
