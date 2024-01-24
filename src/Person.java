@@ -40,7 +40,7 @@ public abstract class Person implements Payable, Comparable<Person>{
     }
 
     @Override
-    public int compareTo(Person o) {
-        return 0;
+    public int compareTo(Person othPerson) {
+        return Double.compare(this.getPaymentAmount(), othPerson.getPaymentAmount());
     }
 }
